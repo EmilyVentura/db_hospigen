@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>9.png</file>
+    <file>logo7.png</file>
+    <file>8.png</file>
+    <file>compatibilidad1.png</file>
+    <file>compatibilidad3.png</file>
+    <file>logo6.png</file>
+    <file>evaluacion2.png</file>
+    <file>evaluacion.png</file>
+    <file>formulario nuevo.png</file>
+    <file>formulario.png</file>
+    <file>menu.png</file>
+    <file>background.png</file>
+  </qresource>
+</RCC>
